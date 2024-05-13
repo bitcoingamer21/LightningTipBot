@@ -2,7 +2,7 @@
   	<img alt="logo" width="150" src="resources/logo_round.png" >
 </p>
 
-# @LightningTipBot 🏅
+# @B21LightningTipBot 🏅
 
 A Telegram Lightning ⚡️ Bitcoin wallet and tip bot for group chats.
 
@@ -24,7 +24,7 @@ cp config.yaml.example config.yaml
 After the configuration (see below), start it using the command
 
 ```
-./LightningTipBot
+./B21LightningTipBot
 ```
 
 ### Configuration
