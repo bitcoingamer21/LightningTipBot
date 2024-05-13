@@ -24,7 +24,7 @@ cp config.yaml.example config.yaml
 After the configuration (see below), start it using the command
 
 ```
-./B21LightningTipBot
+./LightningTipBot
 ```
 
 ### Configuration
